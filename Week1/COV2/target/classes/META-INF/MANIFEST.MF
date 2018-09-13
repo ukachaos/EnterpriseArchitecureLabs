@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: uka
+Build-Jdk: 9.0.1
+Implementation-Title: COV2
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: cs544
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/COV2
+Created-By: Maven Integration for Eclipse
+

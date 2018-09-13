@@ -1,0 +1,12 @@
+/Users/uka/Documents/CS544 EA/exercises_week1/COV2/src/main/java/cs544/cov1/Application.java
+/Users/uka/Documents/CS544 EA/exercises_week1/COV2/src/main/java/cs544/cov1/service/ContactService.java
+/Users/uka/Documents/CS544 EA/exercises_week1/COV2/src/main/java/cs544/cov1/web/ContactController.java
+/Users/uka/Documents/CS544 EA/exercises_week1/COV2/src/main/java/cs544/cov1/MvcConfig.java
+/Users/uka/Documents/CS544 EA/exercises_week1/COV2/src/main/java/cs544/cov1/web/MyErrorController.java
+/Users/uka/Documents/CS544 EA/exercises_week1/COV2/src/main/java/cs544/cov1/web/EmailController.java
+/Users/uka/Documents/CS544 EA/exercises_week1/COV2/src/main/java/cs544/cov1/WebSecurityConfig.java
+/Users/uka/Documents/CS544 EA/exercises_week1/COV2/src/main/java/cs544/cov1/web/PhoneController.java
+/Users/uka/Documents/CS544 EA/exercises_week1/COV2/src/main/java/cs544/cov1/domain/Contact.java
+/Users/uka/Documents/CS544 EA/exercises_week1/COV2/src/main/java/cs544/cov1/domain/Email.java
+/Users/uka/Documents/CS544 EA/exercises_week1/COV2/src/main/java/cs544/cov1/domain/Phone.java
+/Users/uka/Documents/CS544 EA/exercises_week1/COV2/src/main/java/cs544/cov1/dao/ContactDao.java
