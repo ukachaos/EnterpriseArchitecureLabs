@@ -7,21 +7,71 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e7bdfa1-dece-4cbf-b41b-8e14bf3ef279" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_acl_5_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_taglibs_5_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/springconfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Week2/SJS1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week2/SJS1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Archive.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/MVC1_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/MVC1_war.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/MVC1_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/MVC1_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVC1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MVC1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/cs544/sample/Book.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/cs544/sample/BookController.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/cs544/sample/BookDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cs544/sample/CarController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cs544/sample/CarController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/cs544/sample/IBookDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/SpringMVC-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/SpringMVC-servlet.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/bookDetail.jsp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/bookList.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/carList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/carList.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/addBook.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cs544/sample/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cs544/sample/CarController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cs544/sample/CarDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cs544/sample/ICarDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cs544/sample/NoSuchResourceException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MVC1-1.0-SNAPSHOT.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MVC1-1.0-SNAPSHOT/META-INF/context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MVC1-1.0-SNAPSHOT/WEB-INF/SpringMVC-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MVC1-1.0-SNAPSHOT/WEB-INF/classes/cs544/sample/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MVC1-1.0-SNAPSHOT/WEB-INF/classes/cs544/sample/BookController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MVC1-1.0-SNAPSHOT/WEB-INF/classes/cs544/sample/BookDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MVC1-1.0-SNAPSHOT/WEB-INF/classes/cs544/sample/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MVC1-1.0-SNAPSHOT/WEB-INF/classes/cs544/sample/CarController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MVC1-1.0-SNAPSHOT/WEB-INF/classes/cs544/sample/CarDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MVC1-1.0-SNAPSHOT/WEB-INF/classes/cs544/sample/IBookDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MVC1-1.0-SNAPSHOT/WEB-INF/classes/cs544/sample/ICarDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MVC1-1.0-SNAPSHOT/WEB-INF/classes/cs544/sample/NoSuchResourceException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MVC1-1.0-SNAPSHOT/WEB-INF/classes/log4j.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MVC1-1.0-SNAPSHOT/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MVC1-1.0-SNAPSHOT/WEB-INF/lib/log4j-api-2.11.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MVC1-1.0-SNAPSHOT/WEB-INF/lib/log4j-core-2.11.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MVC1-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-5.0.8.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MVC1-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-5.0.8.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MVC1-1.0-SNAPSHOT/WEB-INF/lib/spring-context-5.0.8.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MVC1-1.0-SNAPSHOT/WEB-INF/lib/spring-core-5.0.8.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MVC1-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-5.0.8.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MVC1-1.0-SNAPSHOT/WEB-INF/lib/spring-jcl-5.0.8.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MVC1-1.0-SNAPSHOT/WEB-INF/lib/spring-web-5.0.8.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MVC1-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-5.0.8.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MVC1-1.0-SNAPSHOT/WEB-INF/views/bookDetail.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MVC1-1.0-SNAPSHOT/WEB-INF/views/bookList.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MVC1-1.0-SNAPSHOT/WEB-INF/views/carDetail.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MVC1-1.0-SNAPSHOT/WEB-INF/views/carList.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MVC1-1.0-SNAPSHOT/WEB-INF/views/noSuchResource.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MVC1-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MVC1-1.0-SNAPSHOT/addBook.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MVC1-1.0-SNAPSHOT/addCar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cs544/sample/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cs544/sample/BookController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cs544/sample/BookDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cs544/sample/CarController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cs544/sample/CarController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cs544/sample/IBookDao.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,9 +84,9 @@
     <session id="-176029929">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="1" />
           <entry key="project.opened" value="3" />
         </counts>
@@ -45,34 +95,34 @@
         <counts>
           <entry key="html" value="3" />
           <entry key="iml" value="1" />
-          <entry key="java" value="12" />
-          <entry key="jsp" value="8" />
-          <entry key="xml" value="12" />
+          <entry key="java" value="20" />
+          <entry key="jsp" value="13" />
+          <entry key="xml" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="3" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="12" />
-          <entry key="JSP" value="8" />
-          <entry key="XML" value="12" />
+          <entry key="JAVA" value="20" />
+          <entry key="JSP" value="13" />
+          <entry key="XML" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="58" />
-          <entry key="java" value="990" />
-          <entry key="jsp" value="186" />
-          <entry key="xml" value="36" />
+          <entry key="java" value="992" />
+          <entry key="jsp" value="320" />
+          <entry key="xml" value="278" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="58" />
-          <entry key="JAVA" value="990" />
-          <entry key="JSP" value="186" />
-          <entry key="XML" value="36" />
+          <entry key="JAVA" value="992" />
+          <entry key="JSP" value="320" />
+          <entry key="XML" value="278" />
         </counts>
       </usages-collector>
     </session>
@@ -80,10 +130,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/springconfig.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/cs544/sample/CarController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="780">
-              <caret line="62" column="1" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
+            <state relative-caret-position="377">
+              <caret line="72" column="46" selection-start-line="72" selection-start-column="46" selection-end-line="72" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -91,8 +150,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+            <state relative-caret-position="315">
+              <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -100,8 +159,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/carList.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+            <state relative-caret-position="-1">
+              <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -109,8 +177,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+            <state relative-caret-position="255">
+              <caret line="17" column="42" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -121,6 +189,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="spring-beans.schema" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -129,6 +199,7 @@
       <find>viewcon</find>
       <find>view</find>
       <find>get</find>
+      <find>sec:</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -137,16 +208,20 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/main/java/cs544/sample/IBookDao.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/SpringMVC-servlet.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/cs544/sample/CarController.java" />
         <option value="$PROJECT_DIR$/src/main/java/cs544/sample/BookDao.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/bookList.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/addBook.html" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/bookDetail.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/cs544/sample/BookController.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/SpringMVC-servlet.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/springconfig.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/carList.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/cs544/sample/CarController.java" />
       </list>
     </option>
   </component>
@@ -183,9 +258,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -273,18 +345,22 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537235644155" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537328351547" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.19199346" />
+    <property name="settings.editor.selected.configurable" value="spring" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -389,17 +465,18 @@
       <updated>1537223864502</updated>
       <workItem from="1537223868137" duration="6037000" />
       <workItem from="1537235814925" duration="80000" />
-      <workItem from="1537328902972" duration="22000" />
+      <workItem from="1537296343481" duration="5151000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6139000" />
+    <option name="totallyTimeSpent" value="11268000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23462088" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23175965" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -461,13 +538,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/webapp/META-INF/context.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/SpringMVC-servlet.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/addBook.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
@@ -477,8 +547,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cs544/sample/BookController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="39" column="65" selection-start-line="39" selection-start-column="65" selection-end-line="39" selection-end-column="65" />
+        <state relative-caret-position="243">
+          <caret line="29" column="51" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -488,9 +561,6 @@
           <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/carDetail.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/bookList.jsp">
       <provider selected="true" editor-type-id="text-editor">
@@ -510,34 +580,96 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="14" column="69" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cs544/sample/CarController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cs544/sample/Car.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="62" column="1" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
+        <state relative-caret-position="236">
+          <caret line="63" column="23" lean-forward="true" selection-start-line="63" selection-start-column="23" selection-end-line="63" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/carList.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cs544/sample/ICarDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/carDetail.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cs544/sample/CarDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cs544/sample/NoSuchResourceException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/SpringMVC-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        <state relative-caret-position="255">
+          <caret line="17" column="42" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/carList.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/springconfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cs544/sample/CarController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="72" column="46" selection-start-line="72" selection-start-column="46" selection-end-line="72" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        <state relative-caret-position="315">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
         </state>
       </provider>
     </entry>
