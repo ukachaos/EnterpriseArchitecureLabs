@@ -10,6 +10,7 @@ W1D1 : COV1, COV2, HPA1, HPA2
 <br />W2D3 : SSL1, SSL2, AOP1, AOP2, 
 <br />W2D4 : SPH2, SPH1
 <br />W2D6 : SJS1, SJS2
+<br />
 <br />W3D1 : MVC1
 <br />W3D2 : SEC1, VAL1
 <br />W3D3 : RST1, Exercise 25_1
